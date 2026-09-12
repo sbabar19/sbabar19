@@ -60,7 +60,7 @@ Today, I build logistics, e-commerce, finance, and AI-assisted platforms at **Gn
 
 ## Selected work
 
-- ✍️ [**Compoose**](https://apps.apple.com/us/app/compoose/id6787232053) — AI-powered writing workspace with rich editing, contextual assistance, project management, and real-time collaboration
+- ✍️ [**Compoose**](https://apps.apple.com/us/app/compoose/id6787232053) — Offline macOS writing workspace for focused drafts, structured documents, and private meeting notes—with local recording, transcription, and summaries
 - 🔎 [**Compoose Lens**](https://apps.apple.com/us/app/compoose-lens/id6797838494?mt=12) — Native macOS capture and annotation utility with OCR, redaction, and on-device AI actions
 
 ## GitHub at a glance
