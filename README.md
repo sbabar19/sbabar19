@@ -32,6 +32,18 @@ Today, I build logistics, e-commerce, finance, and AI-assisted platforms at **Gn
 - 🎯 Created spatial QA tooling that improved issue-resolution speed by **73%**
 - 🧩 Shipped products across logistics, seller operations, finance, mapping, and AI media processing
 
+---
+
+<div align="center">
+
+### Have an interesting problem to solve?
+
+I'm open to **full-time roles, freelance projects, and technical consulting** involving full-stack platforms, geospatial systems, logistics, e-commerce, and AI-enabled workflows.
+
+[**See my work →**](https://www.shaharyarbabar.dev/#projects)
+
+</div>
+
 ## Toolbox
 
 _A practical toolbox built across my public repositories and product work._
@@ -229,15 +241,3 @@ _A practical toolbox built across my public repositories and product work._
 </div>
 
 > These cards are generated and refreshed in this repository by [GitHub Actions](./.github/workflows/update-profile-stats.yml), so the profile does not depend on the flaky public stats endpoint. The language card filters out generated and starter repositories to better reflect active product work.
-
----
-
-<div align="center">
-
-### Have an interesting problem to solve?
-
-I'm open to **full-time roles, freelance projects, and technical consulting** involving full-stack platforms, geospatial systems, logistics, e-commerce, and AI-enabled workflows.
-
-[**See my work →**](https://www.shaharyarbabar.dev/#projects)
-
-</div>
