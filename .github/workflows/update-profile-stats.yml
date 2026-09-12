@@ -1,0 +1,42 @@
+name: Update profile stats
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate GitHub stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: 'username=${{ github.repository_owner }}&show_icons=true&hide_border=true&rank_icon=github&theme=transparent'
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate language card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&theme=transparent&exclude=scholarships,RankingUpUp,ShopWizard,KickStarterBot-FollowTask-,gneffin-education-static,clerk-chrome-extension-starter,React-Typescript-Chrome-Extension-Starter-With-ParcelJS,nextjs-clerk-drizzle-shadcnui-monorepo-template,NextJS-Fastify-Turborepo-Template'
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --cached --quiet || git commit -m "Update profile stats"
+          git push

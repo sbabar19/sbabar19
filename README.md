@@ -32,31 +32,53 @@ Today, I build logistics, e-commerce, finance, and AI-assisted platforms at **Gn
 
 ## Toolbox
 
-**Frontend**
+_A practical toolbox built across my public repositories and product work._
+
+### Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111827)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+### Frameworks & runtimes
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![Astro](https://img.shields.io/badge/Astro-0C1222?style=flat-square&logo=astro&logoColor=FF5D01)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-
-**Backend, data, and infrastructure**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-**Geospatial and AI**
+<details>
+<summary>Libraries, services & platforms</summary>
 
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+- **UI & interaction:** Tailwind CSS, shadcn/ui, Radix UI, MUI, Base UI, Ariakit, TanStack Query, TanStack Table, Zustand, Pinia, React Hook Form, dnd-kit, React DnD, Lucide, Motion, Framer Motion, Recharts, React Three Fiber, Three.js, React Spring, Embla Carousel, React Router, React Hotkeys Hook.
+- **Editors & documents:** TipTap, ProseMirror, Lexical, Yjs, Y-ProseMirror, Hocuspocus, Markdown, React Markdown, Remark, KaTeX, Shiki, Streamdown, Notion API, DOCX, Mammoth, PDF-lib, JSZip, Sharp, html2canvas.
+- **Backend & data:** PostgreSQL, PostGIS, Drizzle ORM, MongoDB, Redis, ioredis, BullMQ, Socket.IO, WebSockets, AWS S3, Supabase, Upstash, QStash, Stripe, Clerk, Resend, Sentry, PostHog, Vercel, Cloudflare.
+- **Media & integrations:** Puppeteer, Cheerio, jsdom, FFmpeg, YouTube Transcript, Google APIs, Notion API, Amazon SP-API, Axios, Zod, date-fns, Luxon, nanoid.
+- **AI & automation:** OpenAI API, Vercel AI SDK, Google Gemini/GenAI, Genkit, Anthropic, Amazon Bedrock, Azure AI, Cohere, DeepSeek, Fireworks, Groq, Mistral, Perplexity, xAI, LangChain text splitters, Model Context Protocol (MCP), RAG, local AI, OCR and vision workflows.
+- **Geospatial & mapping:** QGIS, ArcGIS/Esri, Leaflet, React Leaflet, Mapbox, Google Maps, Street View, Pigeon Maps, Supercluster, UTM conversion, spatial QA and remote-sensing workflows.
+- **Mobile & Apple platforms:** SwiftUI, AppKit, CloudKit, ScreenCaptureKit, Vision, Expo Location, Expo SQLite, React Native Skia, React Native WebView, React Navigation.
+- **Python, scraping & data:** Scrapy, Beautiful Soup, Requests, lxml, Parsel, Pandas, NumPy, APScheduler, Gunicorn, OpenPyXL, XlsxWriter, psycopg2, Twisted.
+- **Robotics & 3D:** NVIDIA Isaac Sim, OpenUSD, Ridgeback, RealSense, surface-gripper workflows.
+- **Tooling:** pnpm, Turborepo, ESLint, Prettier, Jest, Docker, GitHub Actions, Electron Builder, tsup and Git.
+
+</details>
 
 ## Selected work
 
@@ -68,13 +90,15 @@ Today, I build logistics, e-commerce, finance, and AI-assisted platforms at **Gn
 <div align="center">
 
 <a href="https://github.com/sbabar19">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sbabar19&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Shaharyar's GitHub statistics" />
+  <img height="165" src="./profile/stats.svg" alt="Shaharyar's GitHub statistics" />
 </a>
 <a href="https://github.com/sbabar19">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbabar19&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Shaharyar's most-used public repository languages" />
+  <img height="165" src="./profile/top-langs.svg" alt="Shaharyar's most-used public repository languages" />
 </a>
 
 </div>
+
+> These cards are generated and refreshed in this repository by [GitHub Actions](./.github/workflows/update-profile-stats.yml), so the profile does not depend on the flaky public stats endpoint. The language card filters out generated and starter repositories to better reflect active product work.
 
 ---
 
