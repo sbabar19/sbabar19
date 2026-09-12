@@ -66,21 +66,166 @@ _A practical toolbox built across my public repositories and product work._
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-<details>
-<summary>Libraries, services & platforms</summary>
+### UI & interaction
 
-- **UI & interaction:** Tailwind CSS, shadcn/ui, Radix UI, MUI, Base UI, Ariakit, TanStack Query, TanStack Table, Zustand, Pinia, React Hook Form, dnd-kit, React DnD, Lucide, Motion, Framer Motion, Recharts, React Three Fiber, Three.js, React Spring, Embla Carousel, React Router, React Hotkeys Hook.
-- **Editors & documents:** TipTap, ProseMirror, Lexical, Yjs, Y-ProseMirror, Hocuspocus, Markdown, React Markdown, Remark, KaTeX, Shiki, Streamdown, Notion API, DOCX, Mammoth, PDF-lib, JSZip, Sharp, html2canvas.
-- **Backend & data:** PostgreSQL, PostGIS, Drizzle ORM, MongoDB, Redis, ioredis, BullMQ, Socket.IO, WebSockets, AWS S3, Supabase, Upstash, QStash, Stripe, Clerk, Resend, Sentry, PostHog, Vercel, Cloudflare.
-- **Media & integrations:** Puppeteer, Cheerio, jsdom, FFmpeg, YouTube Transcript, Google APIs, Notion API, Amazon SP-API, Axios, Zod, date-fns, Luxon, nanoid.
-- **AI & automation:** OpenAI API, Vercel AI SDK, Google Gemini/GenAI, Genkit, Anthropic, Amazon Bedrock, Azure AI, Cohere, DeepSeek, Fireworks, Groq, Mistral, Perplexity, xAI, LangChain text splitters, Model Context Protocol (MCP), RAG, local AI, OCR and vision workflows.
-- **Geospatial & mapping:** QGIS, ArcGIS/Esri, Leaflet, React Leaflet, Mapbox, Google Maps, Street View, Pigeon Maps, Supercluster, UTM conversion, spatial QA and remote-sensing workflows.
-- **Mobile & Apple platforms:** SwiftUI, AppKit, CloudKit, ScreenCaptureKit, Vision, Expo Location, Expo SQLite, React Native Skia, React Native WebView, React Navigation.
-- **Python, scraping & data:** Scrapy, Beautiful Soup, Requests, lxml, Parsel, Pandas, NumPy, APScheduler, Gunicorn, OpenPyXL, XlsxWriter, psycopg2, Twisted.
-- **Robotics & 3D:** NVIDIA Isaac Sim, OpenUSD, Ridgeback, RealSense, surface-gripper workflows.
-- **Tooling:** pnpm, Turborepo, ESLint, Prettier, Jest, Docker, GitHub Actions, Electron Builder, tsup and Git.
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=tanstack&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-F7D336?style=flat-square&logo=pinia&logoColor=111827)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![dnd-kit](https://img.shields.io/badge/dnd--kit-111827?style=flat-square&logoColor=white)
+![Lucide](https://img.shields.io/badge/Lucide-F56565?style=flat-square&logo=lucide&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-000000?style=flat-square&logo=framer&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22C55E?style=flat-square&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![Embla Carousel](https://img.shields.io/badge/Embla_Carousel-111827?style=flat-square&logoColor=white)
+![React DnD](https://img.shields.io/badge/React_DnD-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Spring](https://img.shields.io/badge/React_Spring-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-</details>
+### Editors & documents
+
+![TipTap](https://img.shields.io/badge/TipTap-111827?style=flat-square&logoColor=white)
+![ProseMirror](https://img.shields.io/badge/ProseMirror-2D3748?style=flat-square&logoColor=white)
+![Lexical](https://img.shields.io/badge/Lexical-7C3AED?style=flat-square&logoColor=white)
+![Yjs](https://img.shields.io/badge/Yjs-F97316?style=flat-square&logoColor=white)
+![Hocuspocus](https://img.shields.io/badge/Hocuspocus-0EA5E9?style=flat-square&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![React Markdown](https://img.shields.io/badge/React_Markdown-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Remark](https://img.shields.io/badge/Remark-111827?style=flat-square&logoColor=white)
+![KaTeX](https://img.shields.io/badge/KaTeX-3B82F6?style=flat-square&logo=katex&logoColor=white)
+![Streamdown](https://img.shields.io/badge/Streamdown-111827?style=flat-square&logoColor=white)
+![Notion API](https://img.shields.io/badge/Notion_API-000000?style=flat-square&logo=notion&logoColor=white)
+![DOCX](https://img.shields.io/badge/DOCX-2B579A?style=flat-square&logoColor=white)
+![Mammoth](https://img.shields.io/badge/Mammoth-2B579A?style=flat-square&logoColor=white)
+![PDF](https://img.shields.io/badge/PDF-B30B00?style=flat-square&logo=adobeacrobatreader&logoColor=white)
+![PDF-lib](https://img.shields.io/badge/PDF--lib-B30B00?style=flat-square&logo=adobeacrobatreader&logoColor=white)
+![JSZip](https://img.shields.io/badge/JSZip-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![Sharp](https://img.shields.io/badge/Sharp-99CC00?style=flat-square&logoColor=111827)
+![html2canvas](https://img.shields.io/badge/html2canvas-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+### Backend, data & product services
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=111827)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![ioredis](https://img.shields.io/badge/ioredis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-CB3837?style=flat-square&logo=nodedotjs&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=111827)
+![Upstash](https://img.shields.io/badge/Upstash-00E9A3?style=flat-square&logoColor=111827)
+![QStash](https://img.shields.io/badge/QStash-00E9A3?style=flat-square&logoColor=111827)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-111827?style=flat-square&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logoColor=white)
+
+### Media & integrations
+
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+![Cheerio](https://img.shields.io/badge/Cheerio-E88C1A?style=flat-square&logoColor=white)
+![jsdom](https://img.shields.io/badge/jsdom-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube_Transcript-FF0000?style=flat-square&logo=youtube&logoColor=white)
+![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=flat-square&logo=google&logoColor=white)
+![Amazon SP-API](https://img.shields.io/badge/Amazon_SP--API-FF9900?style=flat-square&logo=amazon&logoColor=111827)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![date-fns](https://img.shields.io/badge/date--fns-770C56?style=flat-square&logoColor=white)
+![Luxon](https://img.shields.io/badge/Luxon-111827?style=flat-square&logoColor=white)
+![nanoid](https://img.shields.io/badge/nanoid-111827?style=flat-square&logoColor=white)
+
+### AI & automation
+
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Genkit](https://img.shields.io/badge/Genkit-4285F4?style=flat-square&logo=google&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=111827)
+![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Cohere](https://img.shields.io/badge/Cohere-39594D?style=flat-square&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logoColor=white)
+![Fireworks](https://img.shields.io/badge/Fireworks-111827?style=flat-square&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-20B8CD?style=flat-square&logoColor=white)
+![xAI](https://img.shields.io/badge/xAI-000000?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-111827?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square&logoColor=white)
+![OCR & Vision](https://img.shields.io/badge/OCR_%26_Vision-0EA5E9?style=flat-square&logoColor=white)
+
+### Geospatial & mapping
+
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS%2FEsri-2C7AC3?style=flat-square&logo=esri&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![React Leaflet](https://img.shields.io/badge/React_Leaflet-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![Street View](https://img.shields.io/badge/Street_View-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![Pigeon Maps](https://img.shields.io/badge/Pigeon_Maps-0EA5E9?style=flat-square&logoColor=white)
+![Supercluster](https://img.shields.io/badge/Supercluster-111827?style=flat-square&logoColor=white)
+![UTM](https://img.shields.io/badge/UTM_Conversion-0F766E?style=flat-square&logoColor=white)
+![Remote sensing](https://img.shields.io/badge/Remote_Sensing-0F766E?style=flat-square&logoColor=white)
+
+### Mobile & Apple platforms
+
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
+![AppKit](https://img.shields.io/badge/AppKit-111827?style=flat-square&logo=apple&logoColor=white)
+![CloudKit](https://img.shields.io/badge/CloudKit-111827?style=flat-square&logo=icloud&logoColor=white)
+![ScreenCaptureKit](https://img.shields.io/badge/ScreenCaptureKit-111827?style=flat-square&logo=apple&logoColor=white)
+![Vision](https://img.shields.io/badge/Vision-111827?style=flat-square&logo=apple&logoColor=white)
+![Expo Location](https://img.shields.io/badge/Expo_Location-000020?style=flat-square&logo=expo&logoColor=white)
+![Expo SQLite](https://img.shields.io/badge/Expo_SQLite-000020?style=flat-square&logo=expo&logoColor=white)
+![React Native Skia](https://img.shields.io/badge/React_Native_Skia-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native WebView](https://img.shields.io/badge/React_Native_WebView-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Navigation](https://img.shields.io/badge/React_Navigation-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+### Python, scraping & data
+
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-3776AB?style=flat-square&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-3776AB?style=flat-square&logo=python&logoColor=white)
+![lxml](https://img.shields.io/badge/lxml-3776AB?style=flat-square&logo=python&logoColor=white)
+![Parsel](https://img.shields.io/badge/Parsel-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![APScheduler](https://img.shields.io/badge/APScheduler-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![XlsxWriter](https://img.shields.io/badge/XlsxWriter-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![psycopg2](https://img.shields.io/badge/psycopg2-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Robotics & 3D
+
+![NVIDIA Isaac Sim](https://img.shields.io/badge/NVIDIA_Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![OpenUSD](https://img.shields.io/badge/OpenUSD-111827?style=flat-square&logoColor=white)
+![Ridgeback](https://img.shields.io/badge/Ridgeback-0EA5E9?style=flat-square&logoColor=white)
+![RealSense](https://img.shields.io/badge/RealSense-0071C5?style=flat-square&logo=intel&logoColor=white)
+
+### Tooling
+
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=111827)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Electron Builder](https://img.shields.io/badge/Electron_Builder-47848F?style=flat-square&logo=electron&logoColor=white)
+![tsup](https://img.shields.io/badge/tsup-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## Selected work
 
