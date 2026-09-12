@@ -43,8 +43,6 @@ _A practical toolbox built across my public repositories and product work._
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111827)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
@@ -76,7 +74,6 @@ _A practical toolbox built across my public repositories and product work._
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-F7D336?style=flat-square&logo=pinia&logoColor=111827)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
-![dnd-kit](https://img.shields.io/badge/dnd--kit-111827?style=flat-square&logoColor=white)
 ![Lucide](https://img.shields.io/badge/Lucide-F56565?style=flat-square&logo=lucide&logoColor=white)
 ![Motion](https://img.shields.io/badge/Motion-000000?style=flat-square&logo=framer&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-22C55E?style=flat-square&logoColor=white)
@@ -139,7 +136,6 @@ _A practical toolbox built across my public repositories and product work._
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 ![date-fns](https://img.shields.io/badge/date--fns-770C56?style=flat-square&logoColor=white)
 ![Luxon](https://img.shields.io/badge/Luxon-111827?style=flat-square&logoColor=white)
-![nanoid](https://img.shields.io/badge/nanoid-111827?style=flat-square&logoColor=white)
 
 ### AI & automation
 
@@ -148,13 +144,10 @@ _A practical toolbox built across my public repositories and product work._
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Genkit](https://img.shields.io/badge/Genkit-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=111827)
 ![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Cohere](https://img.shields.io/badge/Cohere-39594D?style=flat-square&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logoColor=white)
-![Fireworks](https://img.shields.io/badge/Fireworks-111827?style=flat-square&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-20B8CD?style=flat-square&logoColor=white)
 ![xAI](https://img.shields.io/badge/xAI-000000?style=flat-square&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
@@ -170,9 +163,6 @@ _A practical toolbox built across my public repositories and product work._
 ![React Leaflet](https://img.shields.io/badge/React_Leaflet-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
 ![Google Maps + Street View](https://img.shields.io/badge/Google_Maps_%2B_Street_View-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-![Pigeon Maps](https://img.shields.io/badge/Pigeon_Maps-0EA5E9?style=flat-square&logoColor=white)
-![Supercluster](https://img.shields.io/badge/Supercluster-111827?style=flat-square&logoColor=white)
-![UTM](https://img.shields.io/badge/UTM_Conversion-0F766E?style=flat-square&logoColor=white)
 ![Remote sensing](https://img.shields.io/badge/Remote_Sensing-0F766E?style=flat-square&logoColor=white)
 
 ### Mobile & Apple platforms
@@ -206,8 +196,6 @@ _A practical toolbox built across my public repositories and product work._
 
 ![NVIDIA Isaac Sim](https://img.shields.io/badge/NVIDIA_Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![OpenUSD](https://img.shields.io/badge/OpenUSD-111827?style=flat-square&logoColor=white)
-![Ridgeback](https://img.shields.io/badge/Ridgeback-0EA5E9?style=flat-square&logoColor=white)
-![RealSense](https://img.shields.io/badge/RealSense-0071C5?style=flat-square&logo=intel&logoColor=white)
 
 ### Tooling
 
