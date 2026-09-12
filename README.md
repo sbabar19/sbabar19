@@ -8,6 +8,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shaharyarbabar.dev-2F81F7?style=for-the-badge&logo=safari&logoColor=white)](https://www.shaharyarbabar.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaharyar-babar-77276782/)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~011086dbdaa174b0b5)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Available_for_projects-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/shaharyarbabar7)
 [![GitHub followers](https://img.shields.io/github/followers/sbabar19?style=for-the-badge&logo=github&label=Follow)](https://github.com/sbabar19?tab=followers)
 
 </div>
